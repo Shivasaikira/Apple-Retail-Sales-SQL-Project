@@ -146,11 +146,6 @@ SELECT
     total_qty_sold
 FROM product_rank
 WHERE rnk = 1;
- select * from sales;
-select * from category;
-select * from stores;
-select * from warranty;
-select * from products;
  
 
 -- 7. How many warranty claims have been filed for products launched in the last two years?
